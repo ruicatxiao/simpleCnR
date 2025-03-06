@@ -15,8 +15,8 @@ Rui Xiao, PhD
 
 ## Pipeline Contributor
 
-Katelyn Walzer, PhD
-Christopher Noetzel, PhD
+ - Katelyn Walzer, PhD
+ - Christopher Noetzel, PhD
 
 ## Prerequisites
 
