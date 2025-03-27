@@ -38,7 +38,7 @@ Tested on Ubuntu-server 22.04 LTS.
 ```bash
 # Clone the repository
 git clone https://github.com/ruicatxiao/simpleCnR.git
-cd CNR2Results
+cd simpleCnR
 
 # No additional installation required - the script is ready to use
 ```
